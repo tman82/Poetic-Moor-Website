@@ -1,0 +1,51 @@
+.poetry-block {
+  background: #171717 !important;
+  padding-top: 75px !important;
+  padding-bottom: 50px !important;
+
+  #intro-p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 70px;
+    color: #171717;
+    line-height: 80px;
+    font-weight: bold;
+    max-width: 650px;
+  }
+  #intro-p2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: #171717;
+    line-height: 30px;
+    max-width: 650px;
+    margin-bottom: 30px;
+  }
+
+  .header-block {
+    h1 {
+      color: #FFDC00;
+      font-family: 'Source Sans Pro', sans-serif;
+      font-weight: bold;
+      margin-top: 0px !important;
+      margin-bottom: 50px;
+    }
+  }
+
+    img {
+      margin: 0 auto;
+      display: block;
+      text-align: center;
+      margin-bottom: 80px;
+    }
+}
+
+.poetry-block {
+  #poetry {
+    background: #171717 !important;
+  }
+
+  .post-s {
+    h2 {
+      font-family: 'Open Sans', sans-serif;
+    }
+  }
+}
